@@ -1,0 +1,25 @@
+h1 {color: red;}
+h2 {color: blue;}
+h3 {color: yellow;}
+h4 {color: green;}
+h5 {color: black;}
+h6 {color: ghostwhite;}
+
+
+body{margin: 0; 
+  background-color:#00FFFF;
+	color:#F0FFFF;
+font-family: arial, helvetica sans-serif;
+font-size; 6000px;
+line-height: 1.6em;
+
+}
+
+
+
+.box-1{background-color: #333000;}
+
+
+.container {
+	width: 960px;
+}
